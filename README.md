@@ -1,2 +1,0 @@
-# ReactJSComposingApplication
-Created with CodeSandbox
